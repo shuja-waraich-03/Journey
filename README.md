@@ -2,6 +2,8 @@
  
 Original App Design Project - README Template
 
+Developed by Abhijeet, Lucas, Micheal, Shuja
+
 ===
 
 
